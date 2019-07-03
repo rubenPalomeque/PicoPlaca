@@ -1,0 +1,14 @@
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\bin\Debug\netcoreapp2.1\PyPWeb.deps.json
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\bin\Debug\netcoreapp2.1\PyPWeb.runtimeconfig.json
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\bin\Debug\netcoreapp2.1\PyPWeb.runtimeconfig.dev.json
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\bin\Debug\netcoreapp2.1\PyPWeb.dll
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\bin\Debug\netcoreapp2.1\PyPWeb.pdb
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.csprojAssemblyReference.cache
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.csproj.CoreCompileInputs.cache
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.RazorAssemblyInfo.cache
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.RazorAssemblyInfo.cs
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.AssemblyInfoInputs.cache
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.AssemblyInfo.cs
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.RazorTargetAssemblyInfo.cache
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.dll
+C:\Users\bungu\source\repos\PicoPlaca\PyPWebSln\PyPWeb\obj\Debug\netcoreapp2.1\PyPWeb.pdb
